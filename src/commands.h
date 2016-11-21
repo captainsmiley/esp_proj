@@ -3,6 +3,7 @@
 
 #include <Arduino.h>
 #include <ESP8266WiFi.h>
+#include <EEPROM.h>
 
 #define SERVO_H_POS 100
 #define SERVO_L_POS 10
@@ -24,6 +25,7 @@ public:
     void servo_l();
     void set_servo_h_pos(const char *p);
     void set_servo_l_pos(const char *p);
+    void set_servo_delay(const char *p);
 	virtual ~Commands
         ();
 

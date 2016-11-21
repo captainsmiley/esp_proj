@@ -17,6 +17,7 @@ public:
 	tgesp();
 	void scanWifi();
 	void connectToWifi();
+	bool connectToWifi(const char * ssid, const char * pass);
     void read_client(WiFiClient & client);
     void listen_for_clients();
     void handle_command(const char *);
