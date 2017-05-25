@@ -1,6 +1,6 @@
 eclipse.preferences.version=1
-environment/project/0.910961921/PATH/delimiter=\:
+environment/project/0.910961921/PATH/delimiter=;
 environment/project/0.910961921/PATH/operation=replace
-environment/project/0.910961921/PATH/value=/home/captainsmiley/bin\:/home/captainsmiley/.local/bin\:/usr/local/sbin\:/usr/local/bin\:/usr/sbin\:/usr/bin\:/sbin\:/bin\:/usr/games\:/usr/local/games\:/snap/bin
+environment/project/0.910961921/PATH/value=C\:/Program Files/Java/jre1.8.0_121/bin/server;C\:/Program Files/Java/jre1.8.0_121/bin;C\:/Program Files/Java/jre1.8.0_121/lib/amd64;C\:\\Python27\\;C\:\\Python27\\Scripts;C\:\\ProgramData\\Oracle\\Java\\javapath;C\:\\WINDOWS\\system32;C\:\\WINDOWS;C\:\\WINDOWS\\System32\\Wbem;C\:\\WINDOWS\\System32\\WindowsPowerShell\\v1.0\\;C\:\\Program Files\\TortoiseSVN\\bin;C\:\\Program Files\\MATLAB\\R2015b\\runtime\\win64;C\:\\Program Files\\MATLAB\\R2015b\\bin;C\:\\TDM-GCC-64\\bin;C\:\\Program Files (x86)\\Skype\\Phone\\;C\:\\Program Files\\LLVM\\bin;C\:\\FilesSSD\\build_tools\\Build Tools\\bin;C\:\\Program Files\\Git\\cmd;C\:\\FilesSSD\\gcc_arm\\bin;C\:\\Users\\tgtob\\AppData\\Local\\Microsoft\\WindowsApps;C\:\\Users\\tgtob\\AppData\\Local\\atom\\bin;C\:\\FilesSSD\\build_tools\\Build Tools\\bin;C\:\\Program Files\\Mercurial;C\:\\WINDOWS\\system32
 environment/project/0.910961921/append=true
 environment/project/0.910961921/appendContributed=true
